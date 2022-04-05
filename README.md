@@ -1,2 +1,3 @@
 # spotify-home-myclone
-Clone da Home do Spotify 2022 feita do zero
+
+CLONE DA HOME SPOTIFY 2022 FEITA DO ZERO
